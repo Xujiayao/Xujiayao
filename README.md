@@ -6,7 +6,6 @@
 
 个人博客：[大便超人JASON的空间](https://xujiayao147.gitee.io/)
 
-- :orange_book: 只会写 Java (虽然也很菜)
+- :orange_book: 只会写 Java (虽然 Java 也很菜)
 - :hammer: 项目：
   - PF签名图生成工具
-  - 大便超人JASON的空间 (Gitee)
