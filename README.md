@@ -9,5 +9,6 @@
 - :orange_book: 只会写 Java 的 JavaFX 用户
 - :hammer: 项目：
   - [PF签名图生成工具 - Java](https://github.com/Xujiayao147/PFSignaturesGenerator)
+  - [服务器跨服聊天工具 - Java](https://github.com/Xujiayao147/mc-discord-chat-bridge)
   - [个人博客部署仓库](https://gitee.com/Xujiayao147/Xujiayao147)（[源代码点此](https://github.com/Xujiayao147/Xujiayao147.gitee.io)）
     - [旧网址点此](https://github.com/Xujiayao147/Xujiayao147.github.io)
