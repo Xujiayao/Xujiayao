@@ -10,6 +10,6 @@
 - :hammer: 项目：
   - [GIF签名图生成工具 - Java](https://github.com/Xujiayao147/GIFSignaturesGenerator)
   - [服务器跨服聊天工具 - Java](https://github.com/Xujiayao147/mc-discord-chat-bridge)
-  - [带图形界面的MCDReforged - Java](https://github.com/Xujiayao147/MCDReforgedGUI)
+  - [MCDReforged图形界面 - Java](https://github.com/Xujiayao147/MCDReforgedGUI)
   - [个人博客部署仓库](https://gitee.com/Xujiayao147/Xujiayao147)（[源代码点此](https://github.com/Xujiayao147/Xujiayao147.gitee.io)）
     - [旧网址点此](https://github.com/Xujiayao147/Xujiayao147.github.io)
