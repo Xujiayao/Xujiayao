@@ -10,6 +10,6 @@
 - :hammer: 项目：
   - [GIF签名图生成工具 - Java](https://github.com/Xujiayao147/GIFSignaturesGenerator)
   - [服务器跨服聊天工具 - Java](https://github.com/Xujiayao147/mc-discord-chat-bridge)
-  - [学校 IDEEA 动态网页项目 - Java](https://github.com/Xujiayao147/IDEEAProject)
+  - [IDEEA 动态网页项目 - Java](https://github.com/Xujiayao147/IDEEAProject)
   - [个人博客部署仓库](https://gitee.com/Xujiayao147/Xujiayao147)（[源代码点此](https://github.com/Xujiayao147/Xujiayao147.gitee.io)）
     - [旧网址点此](https://github.com/Xujiayao147/Xujiayao147.github.io)
