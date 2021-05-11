@@ -10,5 +10,5 @@
 - :hammer: 项目：
   - [GIF签名图生成工具 - Java](https://github.com/Xujiayao147/GIFSignaturesGenerator)
   - [服务器跨服聊天工具 - Java](https://github.com/Xujiayao147/MCDiscordChat)
-  - [IDEEA动态网页项目 - Java](https://github.com/Xujiayao147/IDEEAProject)
+  - [Untitled - Java](https://github.com/Xujiayao147/Untitled)
   - [个人博客部署仓库](https://github.com/Xujiayao147/Xujiayao147.github.io)（[源代码点此](https://github.com/Xujiayao147/BlogSource)）
