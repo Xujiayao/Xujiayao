@@ -9,6 +9,6 @@
 - :orange_book: 只会写 Java 的 JavaFX 用户
 - :hammer: 项目：
   - [GIF签名图生成工具 - Java](https://github.com/Xujiayao/GIFSignaturesGenerator)
-  - [服务器跨服聊天工具 - Java](https://github.com/Xujiayao/MCDiscordChat)
+  - [MCDiscordChat - Java](https://github.com/Xujiayao/MCDiscordChat)
   - [Untitled](https://github.com/Xujiayao/Untitled)
   - [个人博客部署仓库](https://github.com/Xujiayao/Xujiayao.github.io)（[源代码点此](https://github.com/Xujiayao/BlogSource)）
