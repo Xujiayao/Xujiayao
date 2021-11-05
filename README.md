@@ -2,7 +2,7 @@
 
 ### 你好啊~ 👋
 
-这里是 Xujiayao (大便超人JASON) 的 GitHub 主页
+这里是 Xujiayao (Jason Xu) 的 GitHub 主页
 
 个人博客：[Xujiayao's Blog](https://blog.xujiayao.top/)
 
