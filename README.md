@@ -5,7 +5,7 @@
 - :sneezing_face: 只会写 Java 的 JavaFX 用户
 - :orange_book: 个人博客：[Xujiayao's Blog](https://blog.xujiayao.top/)
 - :hammer: 项目：
+  - [MCDiscordChat (MCDC)](https://github.com/Xujiayao/MCDiscordChat)
   - [LazyToolkit - Java](https://github.com/Xujiayao/LazyToolkit)
-  - [MCDiscordChat - Java](https://github.com/Xujiayao/MCDiscordChat)
   - [Untitled](https://github.com/Xujiayao/Untitled)
   - [个人博客部署仓库](https://github.com/Xujiayao/Xujiayao.github.io)（[源代码点此](https://github.com/Xujiayao/BlogSource)）
