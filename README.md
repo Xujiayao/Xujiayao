@@ -1,11 +1,12 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xujiayao&show_icons=true&icon_color=66ccff&text_color=718096&bg_color=ffffff" />
 
-### 你好啊~ :wave: :partying_face:
+## :wave: Hi, I'm Jason
 
-- :sneezing_face: 只会写 Java 的 JavaFX 用户
-- :orange_book: 个人博客：[Xujiayao's Blog](https://blog.xujiayao.top/)
-- :hammer: 项目：
+- :gear: Languages and Tools
+
+  - <img alt="IntelliJ IDEA" src="https://cdn.svgporn.com/logos/intellij-idea.svg" width="30px" height="30px"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java" width = "30px" height = "30px"/> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="Git" width = "30px" height = "30px"/> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="Hexo" width = "30px" height = "30px"/> <img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width = "30px" height = "30px">
+- :orange_book: My Blog: [Xujiayao's Blog](https://blog.xujiayao.top/)
+- :hammer: My Projects:
   - [MCDiscordChat (MCDC)](https://github.com/Xujiayao/MCDiscordChat)
   - [LazyToolkit](https://github.com/Xujiayao/LazyToolkit)
-  - [Untitled](https://github.com/Xujiayao/Untitled)
-  - [个人博客部署仓库](https://github.com/Xujiayao/Xujiayao.github.io)（[源代码点此](https://github.com/Xujiayao/BlogSource)）
+  - [Blog Deployment](https://github.com/Xujiayao/Xujiayao.github.io) ([Source Code](https://github.com/Xujiayao/BlogSource))
