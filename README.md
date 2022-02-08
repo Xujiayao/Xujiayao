@@ -10,8 +10,16 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xujiayao&layout=compact&text_color=c8c8c8&bg_color=343946" />
 
-- :hammer: My Projects:
+- :clock4: Recent Posts
 
+  - 2021-07-08 - [博客一周年啦！MCDiscordChat 发布](https://blog.xujiayao.top/posts/4ba0a17a/)
+  - 2021-02-19 - [买新域名啦！](https://blog.xujiayao.top/posts/29edace0/)
+  - 2021-02-12 - [新年快乐！群日常连飞 ZYHB - ZSAM](https://blog.xujiayao.top/posts/140ab620/)
+  - 2021-01-27 - [群不日常连飞 RJGG - RJCC](https://blog.xujiayao.top/posts/381c7e40/)
+  - 2021-01-01 - [新年快乐！2020 年度报告](https://blog.xujiayao.top/posts/6abf4a82/)
+
+- :hammer: My Projects
+- 
   - [MCDiscordChat (MCDC)](https://github.com/Xujiayao/MCDiscordChat)
   - [LazyToolkit](https://github.com/Xujiayao/LazyToolkit)
   - [Blog Deployment](https://github.com/Xujiayao/Xujiayao.github.io) ([Source Code](https://github.com/Xujiayao/BlogSource))
