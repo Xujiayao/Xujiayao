@@ -19,7 +19,6 @@
   - 2021-01-01 - [新年快乐！2020 年度报告](https://blog.xujiayao.top/posts/6abf4a82/)
 
 - :hammer: My Projects
-- 
   - [MCDiscordChat (MCDC)](https://github.com/Xujiayao/MCDiscordChat)
   - [LazyToolkit](https://github.com/Xujiayao/LazyToolkit)
   - [Blog Deployment](https://github.com/Xujiayao/Xujiayao.github.io) ([Source Code](https://github.com/Xujiayao/BlogSource))
