@@ -20,5 +20,4 @@
 
 - :hammer: My Projects
   - [MCDiscordChat (MCDC)](https://github.com/Xujiayao/MCDiscordChat)
-  - [LazyDownloadManager (LDM)](https://github.com/Xujiayao/LazyDownloadManager)
   - [Blog Deployment](https://github.com/Xujiayao/Xujiayao.github.io) ([Source Code](https://github.com/Xujiayao/BlogSource))
