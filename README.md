@@ -12,6 +12,7 @@
 
 - :clock4: Recent Posts
 
+  - 2022-07-29 - [在 Windows 平台下搭建 SFTP 文件服务器](https://blog.xujiayao.top/posts/6e913454/)
   - 2021-07-08 - [博客一周年啦！MCDiscordChat 发布](https://blog.xujiayao.top/posts/4ba0a17a/)
   - 2021-02-19 - [买新域名啦！](https://blog.xujiayao.top/posts/29edace0/)
   - 2021-02-12 - [新年快乐！群日常连飞 ZYHB - ZSAM](https://blog.xujiayao.top/posts/140ab620/)
