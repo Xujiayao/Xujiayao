@@ -20,5 +20,5 @@
   - 2021-01-27 - [群不日常连飞 RJGG - RJCC](https://blog.xujiayao.com/posts/381c7e40/)
 
 - :hammer: My Projects
-  - [MC-Discord-Chat (MCDC)](https://github.com/Xujiayao/MC-Discord-Chat)
+  - [Discord-MC-Chat (DMCC)](https://github.com/Xujiayao/Discord-MC-Chat)
   - [Blog Deployment](https://github.com/Xujiayao/Xujiayao.github.io) ([Source Code](https://github.com/Xujiayao/BlogSource))
