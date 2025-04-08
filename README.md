@@ -12,12 +12,12 @@
 
 - :clock4: Recent Posts
 
+  - 2024-12-30 - [锂电池寿命影响因素探究及原理分析](https://blog.xujiayao.com/posts/3cd53ed7/)
   - 2023-12-30 - [换新域名啦！2023 年度报告](https://blog.xujiayao.com/posts/3854745b/)
   - 2022-07-29 - [在 Windows 平台下搭建 SFTP 文件服务器](https://blog.xujiayao.com/posts/6e913454/)
   - 2021-07-08 - [博客一周年啦！MC-Discord-Chat 发布](https://blog.xujiayao.com/posts/4ba0a17a/)
   - 2021-02-19 - [买新域名啦！](https://blog.xujiayao.com/posts/29edace0/)
   - 2021-02-12 - [新年快乐！群日常连飞 ZYHB - ZSAM](https://blog.xujiayao.com/posts/140ab620/)
-  - 2021-01-27 - [群不日常连飞 RJGG - RJCC](https://blog.xujiayao.com/posts/381c7e40/)
 
 - :hammer: My Projects
   - [Discord-MC-Chat (DMCC)](https://github.com/Xujiayao/Discord-MC-Chat)
