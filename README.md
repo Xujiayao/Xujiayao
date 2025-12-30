@@ -19,6 +19,6 @@
   - 2021-02-19 - [买新域名啦！](https://blog.xujiayao.com/posts/29edace0/)
   - 2021-02-12 - [新年快乐！群日常连飞 ZYHB - ZSAM](https://blog.xujiayao.com/posts/140ab620/)
 
-- :hammer: My Projects
+- :hammer: My Actively Maintained Public Projects
   - [Discord-MC-Chat (DMCC)](https://github.com/Xujiayao/Discord-MC-Chat)
   - [Blog Deployment](https://github.com/Xujiayao/Xujiayao.github.io) ([Source Code](https://github.com/Xujiayao/BlogSource))
