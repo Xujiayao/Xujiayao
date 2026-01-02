@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats-xujiayao.vercel.app/api?username=xujiayao&include_all_commits=false&show_icons=true&theme=github_dark_dimmed&disable_animations=true" />
+<img align="right" src="https://xujiayao-github-readme-stats.vercel.app/api?username=xujiayao&include_all_commits=false&show_icons=true&theme=github_dark_dimmed&disable_animations=true" />
 
 ## :wave: Hi, I'm Jason
 
@@ -8,7 +8,7 @@
 
 - :memo: My Blog: [Xujiayao's Blog](https://blog.xujiayao.com/)
 
-<img align="right" src="https://github-readme-stats-xujiayao.vercel.app/api/top-langs/?username=xujiayao&theme=github_dark_dimmed&layout=pie&disable_animations=true" />
+<img align="right" src="https://xujiayao-github-readme-stats.vercel.app/api/top-langs/?username=xujiayao&theme=github_dark_dimmed&layout=pie&disable_animations=true" />
 
 - :clock4: Recent Posts
 
