@@ -4,13 +4,11 @@ on:
   schedule:
     - cron: "0 0 * * *" # Runs once daily at midnight
   workflow_dispatch:
+  push:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
 
     steps:
       - uses: actions/checkout@v7
@@ -21,7 +19,7 @@ jobs:
           card: stats
           options: include_all_commits=false&show_icons=true&theme=github_dark_dimmed&disable_animations=true
           path: stats/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_1 }}
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
@@ -29,7 +27,7 @@ jobs:
           card: top-langs
           options: username=xujiayao&theme=github_dark_dimmed&layout=pie&disable_animations=true
           path: stats/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_1 }}
 
       - name: Commit cards
         run: |
