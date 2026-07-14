@@ -17,7 +17,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: include_all_commits=false&show_icons=true&theme=github_dark_dimmed&disable_animations=true
+          options: username=xujiayao&include_all_commits=false&show_icons=true&theme=github_dark_dimmed&disable_animations=true
           path: stats/stats.svg
           token: ${{ secrets.PAT_1 }}
 
